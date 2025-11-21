@@ -2,7 +2,7 @@
 # 💼 Data Analyst Portfolio — *Anila Pidaparthi*
 
 📞 973-609-4699 | ✉️ anila.pidaparthi@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-link) | 💻 [GitHub](https://github.com/Anila-Data)
+🔗 [LinkedIn](https://linkedin.com/in/anilapidaparthi) | 💻 [GitHub](https://github.com/Anila-Data)
 
 ---
 
@@ -77,6 +77,6 @@ I love solving real-world problems with data — transforming raw numbers into c
 Let’s connect and discuss how data can solve real-world business problems!  
 
 📧 **anila.pidaparthi@gmail.com**  
-🔗 [LinkedIn](www.linkedin.com/in/anilapidaparthi)
+🔗 [LinkedIn](https://linkedin.com/in/anilapidaparthi)
 
 ---
