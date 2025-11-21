@@ -77,6 +77,6 @@ I love solving real-world problems with data — transforming raw numbers into c
 Let’s connect and discuss how data can solve real-world business problems!  
 
 📧 **anila.pidaparthi@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/your-link)
+🔗 [LinkedIn](www.linkedin.com/in/anilapidaparthi)
 
 ---
